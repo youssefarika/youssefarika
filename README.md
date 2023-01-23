@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youssefarika
 - 👀 I’m interested in front end developement
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
